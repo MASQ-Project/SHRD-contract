@@ -1,7 +1,7 @@
 # Shroud Smart Contract (SHRD)
 This is a clone of the MASQ contract deployed on Ropsten testnet, for testing Node and other features of the MASQ Network
 
-*(Used OpenZeppelin open source ERC20 contract structures found at [Contract Library])*
+*(Used OpenZeppelin open source ERC20 contract structures found at their* [Contract Library] *)*
 
 It provides ERC20 SHRD tokens to run Node on the Ropsten testnet
 
@@ -11,7 +11,7 @@ https://ropsten.etherscan.io/tx/0xd9bbd030dfa3e575c1961e7286241583aac8f1d6a0a6e4
 Token tracker and contract is found here:
 https://ropsten.etherscan.io/token/0x384dec25e03f94931767ce4c3556168468ba24c3
 
-To request SHRD test tokens to test the Node software **Join our Community and Get in Touch with us!**
+To request SHRD tokens to test the Node software **Join our Community and Get in Touch with us!**
 
  - [Telegram]
  - [Twitter]
@@ -41,3 +41,4 @@ Huge thanks for all the OpenZeppelin team's work and contributions to the blockc
    [Twitter]: <https://twitter.com/MASQ_ai>
    [GitHub]: <https://github.com/MASQ-Project>
    [Website]: <https://MASQ.ai>
+   [Contract Library]: <https://github.com/OpenZeppelin/openzeppelin-contracts>
