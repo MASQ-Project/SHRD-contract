@@ -12,3 +12,12 @@ To request SHRD test tokens to use the Node software, please get in touch with o
 Telegram
 Twitter
 Email - info@masq.ai
+
+
+>Used OpenZeppelin open source ERC20 contract structures: https://github.com/OpenZeppelin/openzeppelin-contracts
+>
+>Huge thanks for all the OpenZeppelin team's work and contributions to the blockchain and smart contract sphere Contracts used from Open Zeppelin:
+>
+>https://github.com/OpenZeppelin/openzeppelin-solidity/contracts/ownership/Ownable.sol
+>https://github.com/OpenZeppelin/openzeppelin-solidity/contracts/token/ERC20/ERC20.sol
+>https://github.com/OpenZeppelin/openzeppelin-solidity/contracts/token/ERC20/ERC20Burnable.sol
